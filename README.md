@@ -1,4 +1,4 @@
-# ¡hi! I'm Yordy Cuevas 👋
+# ¡Hi! I'm Yordy Cuevas 👋
 
 I'm a junior frontend developer from Bogotá, Colombia. I love being constantly learning and discovering new things that allow me to improve my skills.
 
