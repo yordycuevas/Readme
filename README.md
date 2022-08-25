@@ -1,6 +1,6 @@
 # ¡Hi! I'm Yordy Cuevas 👋
 
-I'm a junior frontend developer from Bogotá, Colombia. I love being constantly learning and discovering new things that allow me to improve my skills.
+I'm a frontend developer from Bogotá, Colombia. I love being constantly learning and discovering new things that allow me to improve my skills.
 
 I have skills with languages ​​such as JavaScript, css and I have knowledge in fast web creation with [React](https://es.reactjs.org/) , applying clean code and good practices.
 
