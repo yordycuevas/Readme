@@ -8,7 +8,7 @@ I have skills with languages ​​such as JavaScript, css and I have knowledge 
 
 - [BlackJack Game - JavaScript, CSS and HTML](https://alextomas.com/blog/crear-componente-svelte-publicar-npm-package)
 - [TODO List - ReactJs](https://github.com/yordycuevas/todolist-v1)
-- [Counter](https://yordycuevas.github.io/counterJs/) - JavaScript - HTML - CSS
+- [Counter](https://yordycuevas.github.io/counterJs/) - [JavaScript - HTML - CSS]
 - [Interview Project - HTML, CSS and JavaScript](https://github.com/yordycuevas/tita-media)
 
 ## You can find me at:
