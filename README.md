@@ -7,7 +7,7 @@ I have skills with languages ​​such as JavaScript, css and I have knowledge 
 ## Latest published projects
 
 
-- [TODO List - ReactJs](https://github.com/yordycuevas/todolist-v1)
+- [TODO List - ReactJs](https://yordycuevas.github.io/todolist-v1/)
 - [Counter](https://yordycuevas.github.io/counterJs/)
 - [Interview Project - HTML, CSS and JavaScript](https://github.com/yordycuevas/tita-media)
 
